@@ -1,0 +1,141 @@
+- Một số lỗi nguỵ biện.
+- Để đảm bảo quan điểm trở nên khách quan và nhất quán hơn về mặt logic. Chúng 
+ta sẽ có một số lỗi nguỵ biện cần lưu ý.
+
+1. Nguỵ biện tấn công cá nhân (Ad Hominem)
+- Tấn công vào nhân phẩm, chê bai ngoại hình,... thay vì phản biện lại quan điểm của
+họ.
+- Cho dù họ có ra sao đi chăng nữa thì việc đó không khiến quan điểm của họ là sai
+hoàn toàn chỉ vì "họ như thế thì bày đặt nêu quan điểm".
+
+2. Nguỵ biện người rơm (Straw Man)
+- Bóp méo, làm sai lệch đi quan điểm ban đầu của đối phương với mục đích tấn công
+dễ dàng hơn. Nói cách khác là một dạng nhét chữ vào mồm.
+
+3. Nguỵ biện số đông (Bandwagon)
+- Một quan điểm cho rằng là nếu số đông ai cũng vậy thì mặc nhiên quan điểm đó là 
+đúng. Một quan điểm không mặc nhiên đúng nếu đơn giản là có số đông làm theo.
+
+4. Nguỵ biện vòng vo (Begging The Question Fallacy)
+- Bạn lấy một quan điểm / bằng chứng / kết luận chưa được chứng minh, thiếu khách 
+quan để giải thích cho một quan điểm khác khiến cho quan điểm lại thành "nói như
+nói".
+
+5. Nguỵ biện trượt dốc / dây chuyền (Slippery Slope)
+- Một quan điểm bị suy diễn đến tiêu cực mà không hề có bất kì bằng chứng nào. Quan 
+điểm bị khẳng định là chỉ cần một bước đi tương đối nhỏ thì hậu quả sẽ rất khôn 
+lường.
+
+6. Nguỵ biện dựa vào uy tín (Appeal To Authority Fallacy)
+- Một quan điểm phát biểu từ một chuyên gia không thể khiến quan điểm của bạn 
+trở nên đúng ngay lập tức nếu chuyên gia đó không hề phát biểu quan điểm có
+bằng chứng khách quan hay số liệu đã được thống kê, nhận định sâu sắc.
+
+7. Nguỵ biện dựa vào cảm xúc (Appeal To Emotion)
+- Thay vì chứng minh dựa trên lý lẽ và bằng chứng, người dùng nguỵ biện này tấn 
+công vào cảm xúc đối phương. Như việc nếu A không làm cái này thì B sẽ rất buồn,...
+
+8. Nguỵ biện dựa trên lòng thương hại (Argumentum Ad Misericordiam)
+- Thay vì chứng minh dựa trên lý lẽ và bằng chứng, người dùng nguỵ biện này tấn 
+công vào sự thương hại của đối phương. Như việc B mong A làm cái này vì B đang rất 
+đau khổ và hoàn cảnh rất khó khăn,...
+
+9. Nguỵ biện về xác suất chủ quan (Base Rate Fallacy)
+- Người mắc phải nguỵ biện này sẽ phán đoán các bài toán xác suất dựa trên sự chủ 
+quan của xác suất thay vì toàn bộ tính khách quan. Một công ty làm ăn thua lỗ chưa 
+chắc khiến cho xác suất công ty phá sản cao.
+
+10. Nguỵ biện suy luận vòng tròn (Circular Reasoning Fallacy)
+- Nó cũng gần giống với Nguỵ biện vòng vo (Begging The Question Fallacy).
+- Điều khác biệt ở đây là nó dễ phát hiện hơn vì nó sẽ lôi kết luận làm lý lẽ
+để giải thích và nguyên lí thực chất y chang nhau (tránh nguỵ biện thì nguyên lí y 
+chang nhau là do cả 2 nguỵ biện đều xuất phát từ một nguyên nhân, bằng chứng là 
+giống nhau về mặt khái niệm).
+- Bạn lấy một quan điểm / bằng chứng / kết luận chưa được chứng minh, thiếu khách 
+quan để giải thích cho một quan điểm khác khiến cho quan điểm lại thành "nói như
+nói".
+
+11. Nguỵ biện sinh thái (Ecological Fallacy)
+- Cũng có thể hiểu là một dạng đánh đồng. Người mắc phải nguỵ biện này cho rằng trong
+một tập hợp A nếu phần tử 1 2 3 4 5 mà có 1 2 3 4 là số chẵn thì ngay lập tức kết
+luận 5 cũng là số chẵn ngay cả khi chưa có bằng chứng về ràng buộc (ví dụ: Tập hợp 
+không hề khẳng định toàn bộ phần tử trong tập hợp đó là số chẵn).
+
+12. Nguỵ biện trắng đen (False Dilemma Fallacy)
+- Người mắc phải nguỵ biện này sẽ chỉ đưa ra hai lựa chọn và đa số các lựa chọn đều 
+theo khuôn mẫu là: Tốt nhất hoặc tệ nhất. họ sẽ chỉ đưa ra 2 lựa chọn trong khi lẽ ra
+có nhiều lựa chọn, thường là bắt buộc: Hoặc là ủng hộ tôi (tốt nhất đối với họ,...)
+hoặc là phản đối tôi thì hậu quả sẽ rất tệ trong khi không xét các trường ngoại lệ.
+
+13. Nguỵ biện mập mờ (Equivocation Fallacy)
+- Đa số thì họ chỉ dùng để trêu đùa nhưng ở trường hợp xấu thì nguỵ biện này mang 
+tính "Đánh tráo khái niệm", họ dùng một khái niệm không rõ ràng và chưa quy ước 
+ngay từ đầu để gây ra sự lấp lửng (mập mờ). Như việc A nói đàn ông nên thành thật
+với bản năng của mình nhưng A lại không giải thích "thành thật" thật sự là gì, khiến
+cho quan điểm đúng hay sai lại phụ thuộc vào góc nhìn người đọc / nghe, "thành thật
+với bản năng" vừa có thể hiểu là có thể cho phép bản năng làm nhưng phải có giới hạn,
+có ranh giới và tôn trọng nhưng lại có thể hiểu là bản năng thích gì thì làm đó luôn.
+
+14. Nguỵ biện đơn ra đa (Fallacy Of Composition)
+- Đây chính là dạng đảo của Nguỵ biện sinh thái (Ecological Fallacy).
+- Đây cũng là một dạng đánh đồng nhưng khác ở đây là người mắc phải nguỵ biện này
+cho rằng một tập hợp A nếu phần tử 1 2 3 4 5 có 1 là số chẵn thì ngay lập tức kết
+luận 2 3 4 5 cũng là số chẵn ngay cả khi chưa có bằng chứng về ràng buộc (ví dụ:
+Tập hợp không hề khẳng định toàn bộ phần tử trong tập hợp đó là số chẵn).
+- Nguỵ biện có thể hiểu như sau: A thuộc B, A có tính chất S suy ra B cũng có tính
+chất S mà không có bằng chứng????
+
+15. Nguỵ biện nguyên nhân không liên quan (Non Causa Pro Causa)
+- Nó là một cách nói khác của việc dùng quan điểm A để giải thích cho kết luận B. Như
+việc A nói do C nên B mới vậy (ví dụ: Tôi học ngu quá, chắc do tôi ngủ hoài).
+
+16. Nguỵ biện di truyền (Genetic Fallacy)
+- Quan điểm được khẳng định chỉ vì hồi xưa nó thế nên giờ phải thế trong khi thiếu 
+đi bằng chứng khách quan về quan điểm đó. Nguỵ biện di truyền được dựa trên sự thiếu
+khách quan.
+
+17. Nguỵ biện số liệu chủ quan (Hasty Generalization Fallacy)
+- Quan điểm khẳng định đúng ngay lập tức ngay cả khi bằng chứng thực tế là quá ít để 
+kết luận. Như việc A đi hỏi 100 người trong công ty là sản phẩm này có chất lượng hay 
+không thì tất nhiên đa số phải trả lời là chất lượng rồi trong khi mẫu cần lấy nên là 
+khách hàng dùng sản phẩm này.
+
+18. Nguỵ biện sai logic (Logical Fallacy)
+- Có thể hiểu là một nhánh lớn của rất nhiều loại nguỵ biện. Bạn dùng suy luận
+A đi suy ra B mà suy luận A không thể suy ra B.
+
+19. Nguỵ biện phi logic (Non Sequitur Fallacy)
+- Có thể hiểu là một nhánh lớn của rất nhiều loại nguỵ biện, tương tự như Nguỵ biện
+sai logic (Logical Fallacy).
+- Bạn dùng điều kiện A và B đi suy ra điều kiện C một cách vô lý và phi logic, như
+việc. Vì thế giới này rất tồi tệ nên con chim biết bay????
+
+20. Nguỵ biện không có người Scotland đích thực (No True Scotsman Fallacy)
+- Người mắc phải nguỵ biện này sẽ tước đoạt tư cách của người theo quan điểm A nhưng 
+có sự phủ định đối với quan điểm A. Tôi ủng hộ việc học toán nhưng nên giảm tải chương
+trình học lại. Người mắc phải nguỵ biện này sẽ ngay lập tức bảo người ủng hộ việc học 
+toán này "chưa hoàn toàn thuộc phe mình" để bác bỏ bằng chứng.
+
+21. Nguỵ biện dự tính sai lầm (Planning Fallacy)
+- Này cũng không hẳn (không phải không thuộc hoàn toàn) thuộc nguỵ biện vì nó 
+không cố tình hạ thấp quan điểm. Đó chỉ là sự tính toán sai lầm (bạn thừa biết làm
+việc này hồi xưa cực kì tốn thời gian nhưng bạn lại tự an ủi rằng "rồi sẽ ổn thôi").
+
+22. Nguỵ biện thời gian (Post Hoc Fallacy)
+- Người mắc phải nguỵ biện này sẽ áp dụng thời gian để kết luận trong khi thời gian 
+chưa chắc đã phản ánh đúng nguyên nhân và thiếu đi bằng chứng khách quan. Như việc 
+sự việc A sau đó đến B, tôi cho rằng sự việc A tác động đến B.
+
+23. Nguỵ biện chuyện không liên quan (Red Herring Fallacy)
+- A đang nói đến sự việc AA mà B đang yên đang lành đi điều hướng sang sự việc BB.
+
+24. Nguỵ biện chi phí chìm (Sunk Cost Fallacy)
+- Này cũng không hẳn (không phải không thuộc hoàn toàn) thuộc nguỵ biện vì nó 
+không cố tình hạ thấp quan điểm.
+- Tương tự như Nguỵ biện dự tính sai lầm (Planning Fallacy), bạn cố gắng làm việc 
+A ngay cả khi việc B hoàn toàn tốt hơn vì đơn giản bạn đẫ cố gắng làm việc A rồi,
+giờ bỏ là phải học lại từ đầu. Như việc "đâm lao thì phải theo lao".
+
+25. Nguỵ biện của nguỵ biện (Fallacy By Fallacy)
+- Chỉ là một trò đùa nói rằng: Đôi khi khái niệm của "nguỵ biện" lại bị "nguỵ biện"
+hay bạn đi bắt lỗi nguỵ biện xong bạn cũng bị nguỵ biện =)
