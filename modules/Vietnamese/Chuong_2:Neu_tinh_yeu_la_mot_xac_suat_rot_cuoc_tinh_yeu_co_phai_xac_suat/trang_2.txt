@@ -46,31 +46,36 @@ khiến bạn hạnh phúc và bạn hoàn toàn chịu trách nhiệm được 
 
 
 
-// Còn dính nguỵ biện //
-2.2.
-       "Bạn đã áp dụng sai cách tìm kiếm tình yêu của mình!"
+// Còn dính nguỵ biện, quá nhiều nguỵ biện ngay cả khi có quan điểm đúng 
+nhưng quá thô! //
 
-- Không hẳn bạn đã sai nhưng theo quan điểm của tôi con người vốn dĩ chỉ nên tìm 1 
-người duy nhất để yêu đến cuối đời. Nhưng tuỳ hoàn cảnh, thực chất là ngoại việc 
-tán tỉnh nhiều nguòi cùng 1 lúc với xác suất chia đều thì thực chất là còn 1 cách 
-tán khác là tại sao bạn không thử tán 1 người duy nhất nhưng người đó là người mà 
-bạn thích từ tính cách cho đến những khuyết điểm?
-- Ở trên là một góc nhìn chủ quan của tôi, bạn không nhất thiết phải làm theo quan 
-điểm của tôi. Bạn hoàn toàn có thể dùng cách tán tỉnh nhiều người miễn là bạn cảm 
-thấy hạnh phúc, vì suy cho cùng xác suất thì mãi là xác suất.
+2.2. 
+     "Chúng ta cùng nhau giải quyết vấn đề không phải chúng ta là vấn đề lẫn nhau!"
+- Rõ ràng là vậy, đáng lẽ trong một mâu thuẫn tuỳ vào tính cách mỗi người ta có cách
+giải quyết mâu thuẫn khác nhau, từng góc nhìn áp dụng được với từng người khác nhau,
+bạn không thể áp dụng 1 góc nhìn lên nhiều người.
+- Theo từng góc nhìn ta có:
++ Im lặng để bình tĩnh rồi giải quyết vấn đề: Đôi khi việc nóng giận sẽ khiến bạn 
+không đủ tỉnh táo để giải quyết vấn đề, đối phương nói chuyện với bạn bằng lí lẽ 
+nhưng bạn nói với họ chỉ là sự công kích và mong muốn được dỗ nhưng rốt cuộc vấn
+đề không hề biến mất mà tồn đọng. Tất nhiên góc nhìn này chỉ hợp với một số người.
++ Giải quyết vấn đề ngay: Chỉ khi đối phương bình tĩnh thì ta có thể cùng họ giải 
+quyết ngay vấn đề.
++ ...
 
 2.3. 
-     "Chúng ta cùng nhau giải quyết vấn đề không phải chúng ta là vấn đề lẫn nhau!"
-
-2.4. 
     "Hãy tha thứ cho những lần vụng về của đối phương."
 
-- Khi ta nhìn bài toán dưới góc độ vĩ mô, ta chợt nhận ra một điều là chúng ta cũng 
-nên tha thứ cho đối phương. Vốn dĩ con người không ai là hoàn hảo, đôi khi họ 
-sẽ mắc sai lầm nhưng miễn họ còn yêu mình còn tôn trọng mình và sẵn sàng sửa sai 
-thì họ xứng đáng được tha thứ.
+- Con người vốn dĩ sinh ra đã không hoàn hảo, con người là tập hợp của nhiều tính 
+cách trong đó sẽ có cái tốt và có cái xấu. Nếu ta đặt câu hỏi rằng: "Nếu ai cũng 
+hoàn hảo thì sao?" có thể kết quả khách quan nhất để mà nói thì ai cũng giống nhau
+cả. 
+- "Con" trong Con Người là tập hợp của những điều mà con vật làm một cách nguyên 
+thuỷ nhất, "Người" trong Con Người là một cách ta phân biệt giữa động vật bậc cao 
+và động vật bậc thấp, đặc điểm chung là không ai giống ai cả luôn có một sự phân 
+biệt nào đó.
 
-2.5. 
+2.4. 
 
     "Vượt qua bản năng."
 
@@ -80,5 +85,13 @@ con người. Thành thật với bản năng ở đây không phải là bản 
 làm đó mà là ta có quyền được thành thật với bản năng nhưng phải dựa trên ranh giới
 của sự tôn trọng.
 
+2.5. 
+      "Mỗi một khuyết điểm đôi khi mới tạo nên con người bạn của ngày hôm nay."
+
+
+
 2.6. 
-      "Nếu có thể, tôi muốn yêu em đến suốt đời!"
+     "Đủ thương để yêu và đủ dứt khoát để rời đi."
+
+
+// Drop đến 25/10/2026 do không biết xây sườn //
